@@ -1,6 +1,7 @@
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
 ![ci](https://github.com/k2tzumi/slack-jma-bot/workflows/ci/badge.svg)
-_
+
+
 What is this?
 ==============================
 
@@ -22,6 +23,7 @@ REQUIREMENTS
 - `npm`
 - [clasp](https://github.com/google/clasp)  
 `npm install -g @google/clasp`
+
 - `make`
 
 USAGE
